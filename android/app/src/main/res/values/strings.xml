@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CarePoint HMS</string>
+    <string name="title_activity_main">CarePoint HMS</string>
+    <string name="package_name">com.carepoint.hms</string>
+    <string name="custom_url_scheme">com.carepoint.hms</string>
+</resources>
